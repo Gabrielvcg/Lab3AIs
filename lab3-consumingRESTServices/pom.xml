@@ -7,7 +7,7 @@
     <version>1.0-SNAPSHOT</version>
 
     <groupId>aiss</groupId>
-    <artifactId>lab5-myfirstmashup</artifactId>
+    <artifactId>lab3-consumingRESTServices</artifactId>
 
     <properties>
         <!-- PUT HERE YOUR projectId FROM GOOGLE CLOUD CONSOLE -->
