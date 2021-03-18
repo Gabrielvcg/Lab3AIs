@@ -1,2 +1,2 @@
-# lab5-myfirstmashup
-Material práctica 5 AISS: Consumo de servicios RESTful (I)
+# lab3-consumingRESTServices
+Material práctica 3 AISS: Consumo de servicios RESTful (I)
